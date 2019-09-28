@@ -1,0 +1,2 @@
+# Postfix Expressions with Variables
+This program evaluates postfix expressions to infix expressions (similar to A3) but now allows for named variables to be used in the expressions. The corresponding result from each expression read from the txt file can be assigned to a variable and used for later expressions in the txt file. Each variable is stored in a custom hashtable that utilizes Horner's Hash algorithm.
